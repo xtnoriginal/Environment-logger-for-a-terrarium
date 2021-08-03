@@ -1,0 +1,2 @@
+# Environment-logger-for-a-terrarium
+ Using a raspberry pi designed a system that measures light intensity and temperature. The information was fed to a pi and  displayed on the terminal. The system was designed using python.The  environment logger can be controlled remotely and displaying result using a mobile app by utilising blink. This allows increasing sampling rate and switching On and off the systems.
